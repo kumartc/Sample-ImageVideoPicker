@@ -1,0 +1,10 @@
+G:\Forms PopUp Page\OWN\ImageVideoPicker\ImageVideoPicker\ImageVideoPicker\bin\Debug\netstandard2.0\ImageVideoPicker.deps.json
+G:\Forms PopUp Page\OWN\ImageVideoPicker\ImageVideoPicker\ImageVideoPicker\bin\Debug\netstandard2.0\ImageVideoPicker.dll
+G:\Forms PopUp Page\OWN\ImageVideoPicker\ImageVideoPicker\ImageVideoPicker\obj\Debug\netstandard2.0\ImageVideoPicker.csprojAssemblyReference.cache
+G:\Forms PopUp Page\OWN\ImageVideoPicker\ImageVideoPicker\ImageVideoPicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Forms PopUp Page\OWN\ImageVideoPicker\ImageVideoPicker\ImageVideoPicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Forms PopUp Page\OWN\ImageVideoPicker\ImageVideoPicker\ImageVideoPicker\obj\Debug\netstandard2.0\ImageVideoPicker.csproj.CoreCompileInputs.cache
+G:\Forms PopUp Page\OWN\ImageVideoPicker\ImageVideoPicker\ImageVideoPicker\obj\Debug\netstandard2.0\ImageVideoPicker.AssemblyInfoInputs.cache
+G:\Forms PopUp Page\OWN\ImageVideoPicker\ImageVideoPicker\ImageVideoPicker\obj\Debug\netstandard2.0\ImageVideoPicker.AssemblyInfo.cs
+G:\Forms PopUp Page\OWN\ImageVideoPicker\ImageVideoPicker\ImageVideoPicker\obj\Debug\netstandard2.0\ImageVideoPicker.dll
+G:\Forms PopUp Page\OWN\ImageVideoPicker\ImageVideoPicker\ImageVideoPicker\obj\Debug\netstandard2.0\ImageVideoPicker.pdb
